@@ -1,0 +1,872 @@
+<div style="width: 100%; height: 100%; position: relative; background: #F7F6EF">
+    <div style="height: 977px; left: 0px; top: 140px; position: absolute">
+        <div style="width: 1440px; height: 65px; left: 0px; top: 0px; position: absolute; background: white; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="width: 40px; height: 65px; position: relative; background: white"></div>
+            <div style="width: 435px; height: 65px; padding-top: 42px; padding-bottom: 8px; padding-left: 15px; padding-right: 15px; background: white; justify-content: center; align-items: center; display: flex">
+                <div style="width: 405px; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Заявка на лечение</div>
+            </div>
+            <div style="width: 120px; height: 65px; padding-top: 27px; padding-bottom: 8px; padding-left: 15px; padding-right: 15px; background: white; justify-content: center; align-items: center; display: flex">
+                <div style="width: 90px; text-align: right; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Стартовое предложение</div>
+            </div>
+            <div style="width: 120px; height: 65px; padding-top: 27px; padding-bottom: 8px; padding-left: 15px; padding-right: 15px; background: white; justify-content: center; align-items: center; display: flex">
+                <div style="width: 90px; text-align: right; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Минимальное предложение</div>
+            </div>
+            <div style="width: 110px; height: 65px; padding-top: 27px; padding-bottom: 8px; padding-left: 15px; padding-right: 15px; background: #F9FBFA; justify-content: center; align-items: center; display: flex">
+                <div style="width: 80px; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Снижение стоимости</div>
+            </div>
+            <div style="width: 400px; height: 65px; padding-top: 42px; padding-bottom: 8px; padding-left: 15px; padding-right: 15px; background: white; justify-content: center; align-items: center; display: flex">
+                <div style="width: 370px; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Местоположение, радиус</div>
+            </div>
+            <div style="width: 100px; height: 65px; padding-top: 27px; padding-bottom: 8px; padding-left: 15px; padding-right: 15px; background: white; justify-content: center; align-items: center; display: flex">
+                <div style="width: 70px; text-align: right; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Оставшее-ся время</div>
+            </div>
+            <div style="width: 100px; height: 65px; padding-top: 27px; padding-bottom: 8px; padding-left: 15px; padding-right: 15px; background: white; justify-content: center; align-items: center; display: flex">
+                <div style="width: 70px; text-align: right; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Участники/ диагнозы</div>
+            </div>
+            <div style="width: 10px; height: 65px; background: white"></div>
+        </div>
+        <div style="width: 1440px; height: 912px; left: 0px; top: 65px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="width: 1430px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                        <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                            <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                        </div>
+                    </div>
+                    <div style="width: 435px; height: 70px; position: relative; background: white">
+                        <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Внутреннее отбеливание 13-12, 23 зубов</div>
+                        <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">420</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$380</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">20</div>
+                        <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">5%</div>
+                    </div>
+                    <div style="width: 400px; height: 70px; position: relative; background: white">
+                        <div style="width: 370px; left: 15px; top: 37px; position: absolute; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Минская обл., Самохваловичи</div>
+                        <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                            <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                            <div style="width: 15px; height: 15px; background: white"></div>
+                        </div>
+                        <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 343px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                            <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">12 км</div>
+                        </div>
+                        <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                            <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: white"></div>
+                                <div style="width: 12px; height: 4.50px; left: 0px; top: 3.75px; position: absolute; background: #F44242"></div>
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                            </div>
+                            <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Беларусь</div>
+                        </div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">4 д 7 ч</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">2 /1</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+                </div>
+                <div style="width: 1430px; height: 0px; border: 2px #EDEDED solid"></div>
+                <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                        <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                            <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                        </div>
+                    </div>
+                    <div style="width: 435px; height: 70px; position: relative; background: white">
+                        <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Комплексная имплантация All-on 6,
+            нижняя и верхняя челюсть, Schtrau</div>
+                        <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">3200</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$1908</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1292</div>
+                        <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">40%</div>
+                    </div>
+                    <div style="width: 400px; height: 70px; position: relative; background: white">
+                        <div style="width: 370px; left: 15px; top: 37px; position: absolute; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Гродненская обл., Гродно</div>
+                        <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                            <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                            <div style="width: 15px; height: 15px; background: white"></div>
+                        </div>
+                        <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 337px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                            <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">325 км</div>
+                        </div>
+                        <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                            <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: white"></div>
+                                <div style="width: 12px; height: 4.50px; left: 0px; top: 3.75px; position: absolute; background: #F44242"></div>
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                            </div>
+                            <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Беларусь</div>
+                        </div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">33 м</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">5 / 0</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+                </div>
+                <div style="width: 1430px; height: 0px; border: 2px #EDEDED solid"></div>
+                <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                        <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                            <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                        </div>
+                    </div>
+                    <div style="width: 435px; height: 70px; position: relative; background: white">
+                        <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Металлокерамические коронки (мост) 33-45</div>
+                        <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">289</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$201</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">88</div>
+                        <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">30%</div>
+                    </div>
+                    <div style="width: 400px; height: 70px; position: relative; background: white">
+                        <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                            <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                            <div style="width: 15px; height: 15px; background: white"></div>
+                        </div>
+                        <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 343px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                            <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">12 км</div>
+                        </div>
+                        <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                            <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: #1291FF"></div>
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: #181818"></div>
+                            </div>
+                            <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Эстония</div>
+                        </div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">7 ч 33 м</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">6 / 0</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+                </div>
+                <div style="width: 1430px; height: 0px; border: 2px #EDEDED solid"></div>
+                <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                        <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                            <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                        </div>
+                    </div>
+                    <div style="width: 435px; height: 70px; position: relative; background: white">
+                        <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Удаление восьмерок, лечение 24-25 зубов</div>
+                        <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1220</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$1002</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">218</div>
+                        <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">18%</div>
+                    </div>
+                    <div style="width: 400px; height: 70px; position: relative; background: white">
+                        <div style="width: 370px; left: 15px; top: 37px; position: absolute; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Минская обл., Самохваловичи</div>
+                        <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                            <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                            <div style="width: 15px; height: 15px; background: white"></div>
+                        </div>
+                        <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 343px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                            <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">12 км</div>
+                        </div>
+                        <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                            <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: white"></div>
+                                <div style="width: 12px; height: 4.50px; left: 0px; top: 3.75px; position: absolute; background: #F44242"></div>
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                            </div>
+                            <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Беларусь</div>
+                        </div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">33 м</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1 / 0</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+                </div>
+                <div style="width: 1430px; height: 0px; border: 2px #EDEDED solid"></div>
+                <div style="width: 1430px; height: 0px; border: 2px #EDEDED solid"></div>
+                <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                        <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                            <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                        </div>
+                    </div>
+                    <div style="width: 435px; height: 70px; position: relative; background: white">
+                        <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Комплексная имплантация All-on 6,
+            нижняя челюсть, Schtraumann</div>
+                        <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">3100</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$2500</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">600</div>
+                        <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">19%</div>
+                    </div>
+                    <div style="width: 400px; height: 70px; position: relative; background: white">
+                        <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                            <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                            <div style="width: 15px; height: 15px; background: white"></div>
+                        </div>
+                        <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                            <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: white"></div>
+                                <div style="width: 12px; height: 4.50px; left: 0px; top: 3.75px; position: absolute; background: #F44242"></div>
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                            </div>
+                            <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Беларусь</div>
+                        </div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">7 ч 33 м</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">124 / 2</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+                </div>
+                <div style="width: 1430px; height: 0px; border: 2px #EDEDED solid"></div>
+                <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                        <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                            <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                        </div>
+                    </div>
+                    <div style="width: 435px; height: 70px; position: relative; background: white">
+                        <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Металлокерамические коронки (мост) 33-45</div>
+                        <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">800</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$325</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">475</div>
+                        <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">59%</div>
+                    </div>
+                    <div style="width: 400px; height: 70px; position: relative; background: white">
+                        <div style="width: 370px; left: 15px; top: 37px; position: absolute; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Минская обл., Самохваловичи</div>
+                        <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                            <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                            <div style="width: 15px; height: 15px; background: white"></div>
+                        </div>
+                        <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 343px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                            <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">12 км</div>
+                        </div>
+                        <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                            <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: white"></div>
+                                <div style="width: 12px; height: 4.50px; left: 0px; top: 3.75px; position: absolute; background: #F44242"></div>
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                            </div>
+                            <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Беларусь</div>
+                        </div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">14 д 7 ч</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">16 / 0</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+                </div>
+                <div style="width: 1430px; height: 0px; border: 2px #EDEDED solid"></div>
+                <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                        <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                            <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                        </div>
+                    </div>
+                    <div style="width: 435px; height: 70px; position: relative; background: white">
+                        <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Удаление восьмёрок, лечение 24–25 зубов</div>
+                        <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">720</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">600</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">120</div>
+                        <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">17%</div>
+                    </div>
+                    <div style="width: 400px; height: 70px; position: relative; background: white">
+                        <div style="width: 370px; left: 15px; top: 37px; position: absolute; color: #888888; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Гродненская обл., Гродно</div>
+                        <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                            <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                            <div style="width: 15px; height: 15px; background: white"></div>
+                        </div>
+                        <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 337px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                            <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">325 км</div>
+                        </div>
+                        <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                            <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: white"></div>
+                                <div style="width: 12px; height: 4.50px; left: 0px; top: 3.75px; position: absolute; background: #F44242"></div>
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                            </div>
+                            <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Беларусь</div>
+                        </div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">7 ч 33 м</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">13 / 0</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+                </div>
+                <div style="width: 1430px; height: 0px; border: 2px #EDEDED solid"></div>
+                <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                        <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                            <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                        </div>
+                    </div>
+                    <div style="width: 435px; height: 70px; position: relative; background: white">
+                        <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Удаление восьмерок, лечение 24-25 зубов</div>
+                        <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">220</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 120px; height: 70px; position: relative; background: white">
+                        <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1002</div>
+                        <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">218</div>
+                        <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                        <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">18%</div>
+                    </div>
+                    <div style="width: 400px; height: 70px; position: relative; background: white">
+                        <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                            <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                            <div style="width: 15px; height: 15px; background: white"></div>
+                        </div>
+                        <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 343px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                            <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">12 км</div>
+                        </div>
+                        <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                            <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: #1291FF"></div>
+                                <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                            </div>
+                            <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Эстония</div>
+                        </div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">33 м</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 100px; height: 70px; position: relative; background: white">
+                        <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1 / 0</div>
+                        <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                    </div>
+                    <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+                </div>
+            </div>
+            <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                    <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                    </div>
+                </div>
+                <div style="width: 435px; height: 70px; position: relative; background: white">
+                    <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Удаление восьмерок, лечение 24-25 зубов</div>
+                    <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 120px; height: 70px; position: relative; background: white">
+                    <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">220</div>
+                    <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 120px; height: 70px; position: relative; background: white">
+                    <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1002</div>
+                    <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">218</div>
+                    <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">18%</div>
+                </div>
+                <div style="width: 400px; height: 70px; position: relative; background: white">
+                    <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                        <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 15px; height: 15px; background: white"></div>
+                    </div>
+                    <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 343px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                        <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">12 км</div>
+                    </div>
+                    <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                        <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                            <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: #1291FF"></div>
+                            <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                        </div>
+                        <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Эстония</div>
+                    </div>
+                </div>
+                <div style="width: 100px; height: 70px; position: relative; background: white">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">33 м</div>
+                    <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 100px; height: 70px; position: relative; background: white">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1 / 0</div>
+                    <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+            </div>
+            <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                    <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                    </div>
+                </div>
+                <div style="width: 435px; height: 70px; position: relative; background: white">
+                    <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Удаление восьмерок, лечение 24-25 зубов</div>
+                    <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 120px; height: 70px; position: relative; background: white">
+                    <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">220</div>
+                    <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 120px; height: 70px; position: relative; background: white">
+                    <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1002</div>
+                    <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">218</div>
+                    <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">18%</div>
+                </div>
+                <div style="width: 400px; height: 70px; position: relative; background: white">
+                    <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                        <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 15px; height: 15px; background: white"></div>
+                    </div>
+                    <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 343px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                        <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">12 км</div>
+                    </div>
+                    <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                        <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                            <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: #1291FF"></div>
+                            <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                        </div>
+                        <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Эстония</div>
+                    </div>
+                </div>
+                <div style="width: 100px; height: 70px; position: relative; background: white">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">33 м</div>
+                    <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 100px; height: 70px; position: relative; background: white">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1 / 0</div>
+                    <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+            </div>
+            <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                    <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                    </div>
+                </div>
+                <div style="width: 435px; height: 70px; position: relative; background: white">
+                    <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Удаление восьмерок, лечение 24-25 зубов</div>
+                    <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 120px; height: 70px; position: relative; background: white">
+                    <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">220</div>
+                    <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 120px; height: 70px; position: relative; background: white">
+                    <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1002</div>
+                    <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">218</div>
+                    <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">18%</div>
+                </div>
+                <div style="width: 400px; height: 70px; position: relative; background: white">
+                    <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                        <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 15px; height: 15px; background: white"></div>
+                    </div>
+                    <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 343px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                        <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">12 км</div>
+                    </div>
+                    <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                        <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                            <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: #1291FF"></div>
+                            <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                        </div>
+                        <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Эстония</div>
+                    </div>
+                </div>
+                <div style="width: 100px; height: 70px; position: relative; background: white">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">33 м</div>
+                    <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 100px; height: 70px; position: relative; background: white">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1 / 0</div>
+                    <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+            </div>
+            <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                    <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                    </div>
+                </div>
+                <div style="width: 435px; height: 70px; position: relative; background: white">
+                    <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Удаление восьмерок, лечение 24-25 зубов</div>
+                    <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 120px; height: 70px; position: relative; background: white">
+                    <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">220</div>
+                    <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 120px; height: 70px; position: relative; background: white">
+                    <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1002</div>
+                    <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">218</div>
+                    <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">18%</div>
+                </div>
+                <div style="width: 400px; height: 70px; position: relative; background: white">
+                    <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                        <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 15px; height: 15px; background: white"></div>
+                    </div>
+                    <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 343px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                        <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">12 км</div>
+                    </div>
+                    <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                        <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                            <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: #1291FF"></div>
+                            <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                        </div>
+                        <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Эстония</div>
+                    </div>
+                </div>
+                <div style="width: 100px; height: 70px; position: relative; background: white">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">33 м</div>
+                    <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 100px; height: 70px; position: relative; background: white">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1 / 0</div>
+                    <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+            </div>
+            <div style="justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="height: 70px; padding-top: 18px; padding-bottom: 36px; padding-left: 26px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                    <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="width: 7.61px; height: 4.75px; background: #3D3D3D"></div>
+                    </div>
+                </div>
+                <div style="width: 435px; height: 70px; position: relative; background: white">
+                    <div style="width: 405px; left: 15px; top: 16px; position: absolute; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Удаление восьмерок, лечение 24-25 зубов</div>
+                    <div style="width: 20px; height: 15px; left: 400px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 420px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 120px; height: 70px; position: relative; background: white">
+                    <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">220</div>
+                    <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 120px; height: 70px; position: relative; background: white">
+                    <div style="width: 80px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1002</div>
+                    <div style="width: 10px; left: 95px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 105px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 110px; height: 70px; position: relative; background: #F9FBFA">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">218</div>
+                    <div style="width: 10px; left: 85px; top: 16px; position: absolute; opacity: 0.50; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">$</div>
+                    <div style="width: 80px; left: 15px; top: 37px; position: absolute; text-align: right; color: #005341; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">18%</div>
+                </div>
+                <div style="width: 400px; height: 70px; position: relative; background: white">
+                    <div style="left: 365px; top: 37px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                        <div style="width: 20px; height: 15px; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                        <div style="width: 15px; height: 15px; background: white"></div>
+                    </div>
+                    <div style="padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 2px; left: 343px; top: 16px; position: absolute; background: #F3F3F3; border-radius: 25px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                        <div style="text-align: right; color: #888888; font-size: 10.24px; font-family: Roboto; font-weight: 500; line-height: 15.36px; word-wrap: break-word">12 км</div>
+                    </div>
+                    <div style="left: 15px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+                        <div style="width: 12px; height: 12px; position: relative; background: white; border-radius: 13px; overflow: hidden; border: 1px rgba(0, 0, 0, 0.12) solid">
+                            <div style="width: 12px; height: 3.75px; left: 0px; top: 0px; position: absolute; background: #1291FF"></div>
+                            <div style="width: 12px; height: 3.75px; left: 0px; top: 8.25px; position: absolute; background: white"></div>
+                        </div>
+                        <div style="width: 126px; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">Эстония</div>
+                    </div>
+                </div>
+                <div style="width: 100px; height: 70px; position: relative; background: white">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">33 м</div>
+                    <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 100px; height: 70px; position: relative; background: white">
+                    <div style="width: 70px; left: 15px; top: 16px; position: absolute; text-align: right; color: #3D3D3D; font-size: 12.80px; font-family: Roboto; font-weight: 400; line-height: 19.20px; word-wrap: break-word">1 / 0</div>
+                    <div style="width: 20px; height: 15px; left: 65px; top: 37px; position: absolute; background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+                    <div style="width: 20px; height: 15px; left: 85px; top: 37px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 5px; height: 70px; position: relative; background: white"></div>
+            </div>
+        </div>
+        <div style="width: 1430px; height: 0px; left: 0px; top: 65px; position: absolute; border: 2px #EDEDED solid"></div>
+    </div>
+    <div style="width: 10px; height: 839px; left: 1430px; top: 205px; position: absolute">
+        <div style="width: 10px; height: 839px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        <div style="width: 4px; height: 210.63px; left: 3px; top: 2.69px; position: absolute; background: #B7B7B7; border-radius: 4px; border: 1px #B7B7B7 solid"></div>
+    </div>
+    <div style="width: 1397px; height: 40px; left: 13px; top: 80px; position: absolute">
+        <div style="height: 40px; padding-left: 28px; padding-right: 28px; padding-top: 12px; padding-bottom: 12px; left: 1162px; top: 0px; position: absolute; background: #005341; border-radius: 6px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 16px; height: 16px; position: relative">
+                <div style="width: 8px; height: 12px; left: 4px; top: 1px; position: absolute; border: 1px white solid"></div>
+                <div style="width: 2px; height: 2px; left: 7px; top: 4px; position: absolute; background: white; border-radius: 9999px"></div>
+                <div style="width: 10px; height: 0px; left: 3px; top: 14.50px; position: absolute; border: 1px white solid"></div>
+            </div>
+            <div style="color: white; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">НАСТРОИТЬ РЕГИОНЫ</div>
+        </div>
+        <div style="left: 250px; top: 0px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 5px; display: inline-flex">
+            <div style="padding-left: 19px; padding-right: 19px; padding-top: 12px; padding-bottom: 12px; background: #005341; border-radius: 20px; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+                <div style="color: white; font-size: 14px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Все</div>
+            </div>
+            <div style="width: 10px; height: 40px; position: relative">
+                <div style="width: 0px; height: 26px; left: 5px; top: 7px; position: absolute; opacity: 0.20; border: 1px #747474 solid"></div>
+            </div>
+            <div style="width: 125px; padding-left: 19px; padding-right: 19px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 20px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div style="width: 24px; height: 24px; position: relative">
+                    <div style="width: 10px; height: 10px; left: 3px; top: 5px; position: absolute; background: #32CEA8"></div>
+                    <div style="width: 3.29px; height: 13px; left: 14px; top: 9px; position: absolute; background: #747474"></div>
+                    <div style="width: 4.53px; height: 13.26px; left: 17.92px; top: 8.92px; position: absolute; background: #747474"></div>
+                </div>
+                <div style="color: #3D3D3D; font-size: 14px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Терапия</div>
+            </div>
+            <div style="width: 142px; padding-left: 19px; padding-right: 19px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 20px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div style="width: 24px; height: 24px; position: relative">
+                    <div style="width: 16px; height: 16px; left: 4px; top: 5px; position: absolute; background: #747474"></div>
+                    <div style="width: 16px; height: 8px; left: 4px; top: 5px; position: absolute; background: #32CEA8"></div>
+                </div>
+                <div style="color: #3D3D3D; font-size: 14px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Ортопедия</div>
+            </div>
+            <div style="width: 131px; padding-left: 19px; padding-right: 19px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 20px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div style="width: 24px; height: 24px; position: relative">
+                    <div style="width: 10px; height: 11px; left: 19px; top: 4px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: #32CEA8"></div>
+                    <div style="width: 20px; height: 5.64px; left: 2px; top: 15px; position: absolute; background: #747474"></div>
+                    <div style="width: 5px; height: 6px; left: 3px; top: 6px; position: absolute; background: #747474"></div>
+                </div>
+                <div style="color: #3D3D3D; font-size: 14px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Хирургия</div>
+            </div>
+            <div style="width: 148px; padding-left: 19px; padding-right: 19px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 20px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div style="width: 24px; height: 24px; position: relative">
+                    <div style="width: 22px; height: 16.16px; left: 1px; top: 4px; position: absolute; background: #747474"></div>
+                    <div style="width: 21.50px; height: 5px; left: 0.50px; top: 8px; position: absolute; background: #32CEA8"></div>
+                </div>
+                <div style="color: #3D3D3D; font-size: 14px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Ортодонтия</div>
+            </div>
+            <div style="width: 220px; padding-left: 19px; padding-right: 19px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 20px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div style="width: 24px; height: 24px; position: relative">
+                    <div style="width: 20.93px; height: 21px; left: 1.53px; top: 1px; position: absolute; background: #747474"></div>
+                    <div style="width: 1px; height: 1px; left: 9px; top: 10px; position: absolute; background: #747474; border-radius: 9999px"></div>
+                    <div style="width: 1px; height: 1px; left: 14px; top: 10px; position: absolute; background: #747474; border-radius: 9999px"></div>
+                    <img style="width: 12px; height: 5px; left: 6px; top: 14px; position: absolute" src="https://via.placeholder.com/12x5" />
+                </div>
+                <div style="color: #3D3D3D; font-size: 14px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Детская стоматология</div>
+            </div>
+        </div>
+        <div style="height: 40px; padding-left: 30px; padding-right: 30px; padding-top: 10px; padding-bottom: 10px; left: 14px; top: 0px; position: absolute; background: #005341; border-radius: 6px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+            <div style="color: white; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">ДИАГНОСТИКА</div>
+        </div>
+    </div>
+    <div style="width: 1440px; height: 60px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 1440px; height: 60px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        <div style="left: 1073px; top: 12px; position: absolute; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 107px; padding-left: 30px; padding-right: 30px; padding-top: 10px; padding-bottom: 10px; background: #DDE8E6; border-radius: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div style="color: #005341; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">ВОЙТИ</div>
+            </div>
+            <div style="width: 220px; height: 36px; padding-left: 30px; padding-right: 30px; padding-top: 10px; padding-bottom: 10px; background: #005341; border-radius: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div style="color: white; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">ЗАРЕГИСТРИРОВАТЬСЯ</div>
+            </div>
+        </div>
+        <div style="height: 15px; left: 540px; top: 22px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 40px; display: inline-flex">
+            <div style="color: #DDE8E6; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">ГЛАВНАЯ</div>
+            <div style="color: #DDE8E6; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">БЛОГ</div>
+            <div style="color: #005341; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">АУКЦИОН</div>
+            <div style="color: #DDE8E6; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">ПРОФИЛЬ</div>
+        </div>
+        <div style="width: 145px; height: 36px; left: 30px; top: 12px; position: absolute">
+            <div style="left: 29px; top: -1px; position: absolute; color: #005341; font-size: 31px; font-family: Outfit; font-weight: 600; word-wrap: break-word">AYALAY</div>
+            <div style="width: 30.72px; height: 32px; left: 0px; top: -1px; position: absolute">
+                <div style="width: 24.06px; height: 25.86px; left: 3.33px; top: 2.82px; position: absolute; background: white"></div>
+                <div style="width: 28.16px; height: 30.21px; left: 1.28px; top: 0.77px; position: absolute; background: #005341"></div>
+                <div style="width: 50.94px; height: 20.61px; left: -10.24px; top: -10.40px; position: absolute">
+                    <div style="width: 50.94px; height: 20.61px; left: 0px; top: 0px; position: absolute; background: #C4C4C4; border-radius: 9999px"></div>
+                    <div style="width: 28.16px; height: 30.21px; left: 11.52px; top: 11.17px; position: absolute; background: #C5BDAA"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
